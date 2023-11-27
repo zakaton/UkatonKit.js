@@ -1,0 +1,14 @@
+{
+    "name": "ukatonkit.js",
+    "version": "1.0.0",
+    "source": "src/UkatonKit.js",
+    "main": "dist/UkatonKit.min.js",
+    "type": "module",
+    "scripts": {
+        "watch": "parcel watch",
+        "build": "parcel build"
+    },
+    "devDependencies": {
+        "parcel": "^2.10.3"
+    }
+}
